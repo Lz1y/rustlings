@@ -6,8 +6,7 @@
 // check clippy's suggestions from the output to solve the exercise.
 // Execute `rustlings hint clippy1` for hints :)
 
-// I AM NOT DONE
-
+#![allow(clippy::approx_constant)]
 use std::f32;
 
 fn main() {
